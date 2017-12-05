@@ -103,3 +103,8 @@ h3 {
     margin: 0px;
     padding-left: 7%;
 }
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
